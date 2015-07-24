@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AvatarMuskView">
+        <attr name="size" format="dimension" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="pointRadius" format="dimension" />
+        <attr name="color" format="color" />
+    </declare-styleable>
+</resources>
